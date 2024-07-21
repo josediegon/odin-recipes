@@ -1,0 +1,20 @@
+*{
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Desde aqui estaran los ajustes del CSS de las receras*/
+
+.imgt{
+    width: 350px;
+    height: auto;
+    border: 5px solid black;
+}
+
+.acenter{
+    text-align: center;
+}
+
+.prue{
+    text-align: center;
+}
